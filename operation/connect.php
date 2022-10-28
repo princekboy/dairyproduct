@@ -1,12 +1,12 @@
 <?php
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "cowsale";
+$servername = "us-cdbr-east-06.cleardb.net";
+$username = "b25224a3c46145";
+$password = "7fea6da0";
+$dbname = "heroku_e3132b845349c6a";
 
-define("SITE_URL", "http://localhost/dairy");
+define("SITE_URL", "https://mydairyp.herokuapp.com/");
 
-define("SITE_ADDRESS", "localhost/dairy");
+define("SITE_ADDRESS", "mydairyp.herokuapp.com/");
 
 define("SITE_NAME", "COW SALE PROJECT");
 
